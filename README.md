@@ -25,3 +25,5 @@ java -cp my-first-dl4j-project-1.0-SNAPSHOT-bin.jar MyFirstDL4JProject
 MyFirstDL4JProject is the class to run which is located in ai.certifai package
 
 ## Contents
+
+* [MultiClassCSVTabular](./src/main/java/examples/classifications/MultiClassCSVTabular.java)
